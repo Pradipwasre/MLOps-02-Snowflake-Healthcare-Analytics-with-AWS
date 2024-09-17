@@ -7,7 +7,6 @@ The integration of data science and big data in the healthcare industry is revol
 
 One compelling machine learning project in the healthcare domain involves using machine learning to predict patient length of stay, a critical aspect of healthcare resource planning. By leveraging ML algorithms, this project aims to forecast how long a patient will likely stay in the hospital.
 
-
 Business Objective of Snowflake End-to-end Project with Source Code
 Healthcare analytics is the process of using data and analytical methods to improve the delivery of healthcare services and patient outcomes. A critical area of healthcare analytics is the analysis of patient length of stay (LOS), which refers to the time a patient spends in a healthcare facility.
 
