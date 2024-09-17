@@ -12,7 +12,6 @@ Healthcare analytics is the process of using data and analytical methods to impr
 
 Length of stay is a critical metric in healthcare, as it can impact patient outcomes, healthcare costs, and hospital capacity. By analyzing patient LOS data, healthcare providers can identify opportunities to improve the delivery of care and reduce costs. In addition to improving patient outcomes, the analysis of patient LOS can also help healthcare providers to allocate resources wisely. For example, by identifying patients at risk of extended LOS, providers can take proactive steps to ensure they receive the care they need in a timely manner.
 
-
 The analysis of patient length of stay is a valuable area of healthcare analytics that can help providers improve outcomes and reduce costs. By leveraging data and advanced analytical techniques, healthcare providers can gain a deeper understanding of patient needs and identify opportunities to improve the delivery of care.
 ------
 
