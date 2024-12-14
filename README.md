@@ -16,6 +16,5 @@ Length of stay is a critical metric in healthcare, as it can impact patient outc
 
 The analysis of patient length of stay is a valuable area of healthcare analytics that can help providers improve outcomes and reduce costs. By leveraging data and advanced analytical techniques, healthcare providers can gain a deeper understanding of patient needs and identify opportunities to improve the delivery of care.
 ------
-
 Project Status: Working on Notebook. Stay tuned.
 Data is not a CSV file.
